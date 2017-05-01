@@ -1,0 +1,21 @@
+{
+  "name": "spet-ui5-auth",
+  "homepage": "https://github.com/serban-petrescu/ui5-auth",
+  "authors": [
+    "Serban Petrescu <Serban.Petrescu@outlook.com>"
+  ],
+  "description": "Authorization library for OpenUI5",
+  "main": "",
+  "keywords": [
+    "openui5",
+    "authorization"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "README.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
